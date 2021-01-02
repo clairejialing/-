@@ -61,55 +61,7 @@ article {
     margin: 0 auto;
 }
 
-#concert {
-    max-width: 600px;
-    margin: 0 auto;
-}
 
-/* section */
-section {
-    margin: 48px 0;
-}
-
-
-/* 標題23 */
-h2 {
-    text-align: center;
-}
-
-h3 {
-    border-left: solid 10px #ff7f50;
-    padding-left: 10px;
-}
-
-/* 表 */
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-th,td {
-    border: solid 1px #999999;
-    padding: 16px;
-}
-th {
-    background-color: #62d5e8;
-}
-
-/* 作品集 */
-.performer {
-    margin: 0 0 24px;
-    overflow: hidden;
-}
-.performer img {
-    float: left;
-    margin: 0 16px 0 0;
-}
-.performer h4 {
-    margin: 0 0 0.5em;
-}
-.performer p {
-    margin: 0;
-}
 
 
 /* 回頁首 */
@@ -124,7 +76,3 @@ th {
 }
 
 
-/* 著作 */
-ol li {
-    list-style-type: upper-roman;
-}
